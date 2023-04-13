@@ -1,0 +1,32 @@
+.Image {
+  width: 200px;
+  margin-right: 65rem;
+}
+.list {
+  list-style: none;
+}
+
+.cardContainer {
+  border-radius: 15px;
+  margin-left: 10rem;
+  width: 900px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  min-height: min-content;
+}
+
+.raiting {
+  background-color: #fff;
+  color: white;
+  display: inline;
+  background: #f67722;
+  border-radius: 8px;
+  padding: 0.5rem 1.5rem;
+}
+.con {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-left: 20rem;
+}
